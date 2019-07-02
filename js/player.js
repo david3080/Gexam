@@ -2820,7 +2820,7 @@ location.href = location.href;
 var API, startTime;
 function DummyAPI() {
 
-var seed = '66ee6dcd82ffe042e29879e6624ed3e7e3f0a62f';
+var seed = '534f938e1f5dfda48bbdfd7190305f339d08d157';
 this.dummy = true;
 this.Initialize = function() {
 console_log('Initialize');
